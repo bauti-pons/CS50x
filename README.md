@@ -13,16 +13,13 @@
 <br/>
 
 ## Table of Contents
-### [Week 0](/Week%200/) - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
-- [Indoor Voice](/Week%200/indoor/)
-- [Playback Speed](/Week%200/playback/)
-- [Making Faces](/Week%200/faces/)
-- [Einstein](/Week%200/einstein/)
-- [Tip Calculator](/Week%200/tip/)
+### [Week 0](/Week%200/) - [Scratch](https://cs50.harvard.edu/x/2024/weeks/0/)
+- [Scratch](/Week%200/)
 
-### [Week 1](/Week%201/) - [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
-- [Deep Thought](/Week%201/deep/)
-- [Home Federal Savings Bank](/Week%201/bank/)
-- [File Extensions](/Week%201/extensions/)
-- [Math Interpreter](/Week%201/interpreter/)
-- [Meal Time](/Week%201/meal/)
+### [Week 1](/Week%201/) - [C](https://cs50.harvard.edu/x/2024/weeks/1/)
+- [Hello, World](/Week%201/world/)
+- [Hello, It’s Me](/Week%201/me/)
+- [Mario (less)](/Week%201/mario-less/)
+- [Mario (more)](/Week%201/mario-more/)
+- [Cash](/Week%201/cash/)
+- [Credit](/Week%201/credit/)
