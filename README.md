@@ -2,8 +2,6 @@
 
 ### These are my solutions for CS50's Introduction to Computer Science.
 
-<br/>
-
 ## :warning: Disclaimer:
 
 ### ❗ **The following codes are for educational purpose only and not intended to be used / submitted as your own solutions.**
