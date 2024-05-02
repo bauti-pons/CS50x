@@ -21,3 +21,9 @@
 - [Mario (more)](/Week%201/mario-more/)
 - [Cash](/Week%201/cash/)
 - [Credit](/Week%201/credit/)
+
+### [Week 2](/Week%202/) - [Arrays](https://cs50.harvard.edu/x/2024/weeks/2/)
+- [Scrabble](/Week%201/scrabble/)
+- [Readability](/Week%201/readability/)
+- [Caesar](/Week%201/caesar/)
+- [Substitution](/Week%201/substitution/)
