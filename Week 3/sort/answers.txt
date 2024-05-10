@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: The dramatic time increase with larger datasets and significantly faster performance on sorted lists suggest that sort1 uses bubble sort, which is known to perform well on already sorted data but poorly on large or reversed lists.
+
+sort2 uses: Merge Sort
+
+How do you know?: The consistent and moderate performance across all data types and the moderate scaling with increased data size suggest that sort2 implements merge sort. Merge sort has a logarithmic relation to the number of elements, making it efficient across sorted, reversed, and random lists.
+
+sort3 uses: Selection Sort
+
+How do you know?: The consistent performance across all types of data and the gradual time increase regardless of the initial order of elements indicate that sort3 uses selection sort. Selection sort performs a fixed number of comparisons, hence the uniform time across different data types.
