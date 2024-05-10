@@ -27,3 +27,9 @@
 - [Readability](/Week%202/readability/)
 - [Caesar](/Week%202/caesar/)
 - [Substitution](/Week%202/substitution/)
+
+### [Week 3](/Week%203/) - [Algorithms](https://cs50.harvard.edu/x/2024/weeks/3/)
+- [Sort](/Week%203/sort/)
+- [Plurality](/Week%203/plurality/)
+- [Runoff](/Week%203/runoff/)
+- [Tideman](/Week%203/tideman/)
