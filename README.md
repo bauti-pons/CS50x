@@ -33,3 +33,9 @@
 - [Plurality](/Week%203/plurality/)
 - [Runoff](/Week%203/runoff/)
 - [Tideman](/Week%203/tideman/)
+
+### [Week 4](/Week%204/) - [Algorithms](https://cs50.harvard.edu/x/2024/weeks/4/)
+- [Volume](/Week%204/volume/)
+- [Filter (less)](/Week%204/filter-less/)
+- [Filter (more)](/Week%204/filter-more/)
+- [Recover](/Week%204/recover/)
