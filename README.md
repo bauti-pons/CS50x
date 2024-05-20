@@ -39,3 +39,7 @@
 - [Filter (less)](/Week%204/filter-less/)
 - [Filter (more)](/Week%204/filter-more/)
 - [Recover](/Week%204/recover/)
+
+### [Week 5](/Week%205/) - [Data Structures](https://cs50.harvard.edu/x/2024/weeks/5/)
+- [Inheritance](/Week%205/inheritance/)
+- [Speller](/Week%205/speller/)
