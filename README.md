@@ -43,3 +43,12 @@
 ### [Week 5](/Week%205/) - [Data Structures](https://cs50.harvard.edu/x/2024/weeks/5/)
 - [Inheritance](/Week%205/inheritance/)
 - [Speller](/Week%205/speller/)
+
+  ### [Week 6](/Week%206/) - [Python](https://cs50.harvard.edu/x/2024/weeks/6/)
+- [Hello, Again](/Week%206/sentimental/hello/)
+- [Mario (less)](/Week%206/sentimental/mario/less/)
+- [Mario (more)](/Week%206/sentimental/mario/more/)
+- [Cash](/Week%206/sentimental/cash/)
+- [Credit](/Week%206/sentimental/credit/)
+- [Readability](/Week%206/sentimental/readability/)
+- [DNA](/Week%206/dna/)
