@@ -1,0 +1,21 @@
+If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+- Based on the average values calculated from the database:
+  - Energy: 0.659
+  - Valence: 0.484
+  - Danceability: 0.716
+These values suggest that the listener's audio aura is characterized by moderately high energy and danceability, with a neutral to slightly positive valence. This indicates a preference for energetic and danceable music with an average emotional tone.
+
+Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener.
+- The method of calculating the audio aura by averaging the energy, valence, and danceability might not be fully representative for several reasons:
+  1) Diverse Musical Preferences: The listener might have a diverse range of musical preferences that are not fully captured by average values. For example, they might enjoy both very energetic and very calm songs, leading to a moderate average that does not reflect either extreme.
+  2) Temporal Variations: The top 100 songs might not reflect changes in musical taste over time. A listener's preferences can vary throughout the year, influenced by seasons, events, or personal experiences.
+  3) Contextual Factors: Songs might be chosen for specific activities (e.g., workouts, relaxation) that do not represent the listener's overall mood or personality.
+  4) Sample Size: Limiting the analysis to the top 100 songs may exclude significant portions of the listener's music library, which could provide a more comprehensive view of their preferences.
+
+What better ways of calculating this aura would you propose?
+- To create a more representative audio aura, I propose the following approaches:
+  1) Weighted Averages: Assign weights to songs based on play counts or user ratings to give more importance to frequently listened tracks.
+  2) Clustering Analysis: Use clustering algorithms to group songs with similar attributes and analyze the characteristics of each cluster to understand different facets of the listener's preferences.
+  3) Temporal Analysis: Include a time-based analysis to capture changes in musical taste over different periods, such as seasons or significant life events.
+  4) Contextual Metadata: Incorporate additional metadata, such as the context in which songs are played (e.g., workout playlists, relaxation playlists), to better understand the listener's mood in different situations.
+  5) User Feedback: Collect feedback directly from the listener about their favorite songs and moods, and use this information to complement the quantitative analysis.
