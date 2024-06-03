@@ -52,3 +52,8 @@
 - [Credit](/Week%206/sentimental/credit/)
 - [Readability](/Week%206/sentimental/readability/)
 - [DNA](/Week%206/dna/)
+
+### [Week 7](/Week%207/) - [SQL](https://cs50.harvard.edu/x/2024/weeks/7/)
+- [Songs](/Week%207/songs/)
+- [Movies](/Week%207/movies/)
+- [Fiftyville](/Week%207/fiftyville/)
