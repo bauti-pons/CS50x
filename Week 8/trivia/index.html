@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
+    <title>Trivia!</title>
+    <script>
+        // JavaScript to handle the trivia logic
+        document.addEventListener("DOMContentLoaded", () => {
+            // Part 1: Multiple Choice
+            document.querySelectorAll('.multiple-choice button').forEach(button => {
+                button.addEventListener('click', () => {
+                    const answer = button.dataset.answer;
+                    const correctAnswer = button.dataset.correct;
+                    const result = document.getElementById('mc-result');
+
+                    // Reset all buttons to their original color
+                    document.querySelectorAll('.multiple-choice button').forEach(btn => {
+                        btn.style.backgroundColor = '#d9edff';
+                    });
+
+                    // Check if the clicked answer is correct or not
+                    if (answer === correctAnswer) {
+                        button.style.backgroundColor = 'green'; // Correct answer
+                        result.textContent = "Correct!";
+                    } else {
+                        button.style.backgroundColor = 'red'; // Incorrect answer
+                        result.textContent = "Incorrect";
+                    }
+                });
+            });
+
+            // Part 2: Free Response
+            document.getElementById('submit-answer').addEventListener('click', () => {
+                const input = document.getElementById('free-response');
+                const answer = input.value.trim().toLowerCase();
+                const correctAnswer = input.dataset.correct.toLowerCase();
+                const result = document.getElementById('fr-result');
+
+                // Check if the typed answer is correct or not
+                if (answer === correctAnswer) {
+                    input.style.backgroundColor = 'green'; // Correct answer
+                    result.textContent = "Correct!";
+                } else {
+                    input.style.backgroundColor = 'red'; // Incorrect answer
+                    result.textContent = "Incorrect";
+                }
+            });
+        });
+    </script>
+</head>
+<body>
+    <div class="header">
+        <h1>Trivia!</h1>
+    </div>
+
+    <div class="container">
+        <div class="section">
+            <h2>Part 1: Multiple Choice</h2>
+            <hr>
+            <!-- Multiple choice question -->
+            <div class="multiple-choice">
+                <h3>What is the capital of France?</h3>
+                <button data-answer="Paris" data-correct="Paris">Paris</button>
+                <button data-answer="London" data-correct="Paris">London</button>
+                <button data-answer="Rome" data-correct="Paris">Rome</button>
+                <p id="mc-result"></p>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Part 2: Free Response</h2>
+            <hr>
+            <!-- Free response question -->
+            <h3>Who wrote 'To Kill a Mockingbird'?</h3>
+            <input type="text" id="free-response" data-correct="Harper Lee">
+            <button id="submit-answer">Submit</button>
+            <p id="fr-result"></p>
+        </div>
+    </div>
+</body>
+</html>

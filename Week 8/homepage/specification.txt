@@ -1,0 +1,31 @@
+HTML Tags:
+1. <header> - Used for page headers.
+2. <nav> - Used for navigation bars.
+3. <main> - Used for the main content.
+4. <section> - Used to define sections of the content.
+5. <footer> - Used for page footers.
+6. <ul> - Used to create an unordered list.
+7. <li> - Used for list items.
+8. <div> - Used for container elements.
+9. <h1>, <h2>, <h3> - Used for headings.
+10. <p> - Used for paragraphs.
+
+CSS Selectors:
+1. body - Styles applied to the body tag.
+2. .container - Class selector for the container div.
+3. header - Element selector for the header.
+4. footer - Element selector for the footer.
+5. .card - Class selector for the card elements.
+
+CSS Properties:
+1. background-color - Sets the background color.
+2. color - Sets the text color.
+3. margin - Sets the outer margin.
+4. padding - Sets the inner padding.
+5. font-family - Sets the font family.
+
+JavaScript:
+An alert is displayed when the page loads, and another alert is displayed when a custom button is clicked.
+
+Bootstrap:
+Integrated Bootstrap for responsive design and pre-built styles for navbar, cards, and buttons.

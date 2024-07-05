@@ -1,0 +1,63 @@
+/* Basic styling for body and container */
+body {
+    background-color: #f8f9fa;
+    color: #212529;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+/* Header styling */
+header {
+    margin-bottom: 30px;
+}
+
+/* Footer styling */
+footer {
+    margin-top: 30px;
+    background-color: #343a40;
+    color: white;
+    padding: 10px 0;
+}
+
+/* Navbar custom styling */
+.navbar {
+    margin-bottom: 20px;
+}
+
+/* Custom card styling */
+.card {
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Custom button styling */
+button.custom-button {
+    background-color: #477bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button.custom-button:hover {
+    background-color: #3b6dd8;
+}
+
+/* Custom input field styling */
+input.custom-input {
+    padding: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
