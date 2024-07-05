@@ -57,3 +57,7 @@
 - [Songs](/Week%207/songs/)
 - [Movies](/Week%207/movies/)
 - [Fiftyville](/Week%207/fiftyville/)
+
+### [Week 8](/Week%208/) - [HTML, CSS, JavaScript](https://cs50.harvard.edu/x/2024/weeks/8/)
+- [Trivia](/Week%208/trivia/)
+- [Homepage](/Week%208/homepage/)
