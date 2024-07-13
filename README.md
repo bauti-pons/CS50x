@@ -61,3 +61,7 @@
 ### [Week 8](/Week%208/) - [HTML, CSS, JavaScript](https://cs50.harvard.edu/x/2024/weeks/8/)
 - [Trivia](/Week%208/trivia/)
 - [Homepage](/Week%208/homepage/)
+
+### [Week 9](/Week%209/) - [Flask](https://cs50.harvard.edu/x/2024/weeks/9/)
+- [Birthdays](/Week%209/birthdays/)
+- [C$50 Finance](/Week%209/finance/)
