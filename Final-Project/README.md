@@ -1,6 +1,6 @@
 
 # Project Title: Currencity
-#### Video Demo: https://youtu.be/L8K1g4yQbPs
+#### Video Demo: https://youtu.be/gSLRo04L0h4
 #### Description:
 
 This project is a comprehensive web application designed for currency conversion and historical exchange rate analysis. The application allows users to convert between different currencies and view historical exchange rates over specified periods. The project is built using Python, Flask, and SQLite, along with Bootstrap for front-end design.
