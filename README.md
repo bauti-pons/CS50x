@@ -13,7 +13,7 @@
 
 <br/>
 
-## Table of Contents
+## 📃 Table of Contents
 ### [Week 0](/Week%200/) - [Scratch](https://cs50.harvard.edu/x/2024/weeks/0/)
 - [Scratch](/Week%200/)
 
