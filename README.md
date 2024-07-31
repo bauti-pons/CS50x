@@ -1,7 +1,7 @@
 # CS50’s Introduction to Computer Science
 [![Certificate](./Final-Project/CS50x-Certificate.png)](https://certificates.cs50.io/b87cd61d-ac8a-4eed-b13a-39cb1ee04366.pdf?size=letter)
 ### These are my solutions for CS50's Introduction to Computer Science.
-<br/>
+
 ### 💻 Final Project: [Currencity](https://www.youtube.com/watch?v=gSLRo04L0h4&t=15s)
 <br/>
 
